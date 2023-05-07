@@ -1,0 +1,32 @@
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.csproj.AssemblyReference.cache
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.AssemblyInfoInputs.cache
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.AssemblyInfo.cs
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.csproj.CoreCompileInputs.cache
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\appsettings.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\OPD Service.exe
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\OPD Service.deps.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\OPD Service.runtimeconfig.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\OPD Service.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\OPD Service.pdb
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets\msbuild.OPD Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets\msbuild.build.OPD Service.props
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OPD Service.props
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OPD Service.props
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\scopedcss\bundle\OPD Service.styles.css
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.csproj.CopyComplete
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\refint\OPD Service.dll
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.pdb
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\OPD Service.genruntimeconfig.cache
+C:\Users\riyaj\source\repos\Sliit.MTIT\OPD Service\obj\Debug\net6.0\ref\OPD Service.dll
